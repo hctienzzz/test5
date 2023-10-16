@@ -30,5 +30,9 @@ namespace test5.Controllers
         {
             return View();
         }
+        public ActionResult DangKy()
+        {
+            return View();
+        }
     }
 }
