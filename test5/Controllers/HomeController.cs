@@ -26,5 +26,9 @@ namespace test5.Controllers
 
             return View();
         }
+        public ActionResult DangNhap()
+        {
+            return View();
+        }
     }
 }
